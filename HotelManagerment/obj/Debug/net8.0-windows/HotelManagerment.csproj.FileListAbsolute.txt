@@ -1,0 +1,93 @@
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.exe
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.deps.json
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.runtimeconfig.json
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.dll
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.pdb
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.Form1.resources
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.Properties.Resources.resources
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.csproj.GenerateResource.cache
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.AssemblyInfoInputs.cache
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.AssemblyInfo.cs
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.csproj.CoreCompileInputs.cache
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.dll
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\refint\HotelManagerment.dll
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.pdb
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.genruntimeconfig.cache
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\ref\HotelManagerment.dll
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\System.Management.dll
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.csproj.AssemblyReference.cache
+D:\Mỹ Hoàng\VAA\2nd semester 2023 - 2024\Windows Programming\Buổi 4\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelMan.0F8277DE.Up2Date
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.csproj.AssemblyReference.cache
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\refint\HotelManagerment.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.pdb
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.exe
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.deps.json
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.runtimeconfig.json
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\HotelManagerment.pdb
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.Form1.resources
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.Properties.Resources.resources
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.csproj.GenerateResource.cache
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.AssemblyInfoInputs.cache
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.AssemblyInfo.cs
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.csproj.CoreCompileInputs.cache
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelMan.0F8277DE.Up2Date
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.genruntimeconfig.cache
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\ref\HotelManagerment.dll
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.Dashboard.resources
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.All_user_control.UC_AddRoom.resources
+C:\Users\Junlie\source\repos\HotelManagerment\HotelManagerment\obj\Debug\net8.0-windows\HotelManagerment.All_user_control.UC_Employee.resources

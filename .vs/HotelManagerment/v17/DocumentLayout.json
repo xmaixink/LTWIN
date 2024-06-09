@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\junlie\\source\\repos\\hotelmanagerment\\hotelmanagerment\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\junlie\\source\\repos\\hotelmanagerment\\hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\hotelmanagerment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\junlie\\source\\repos\\hotelmanagerment\\hotelmanagerment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Dashboard.cs",
+              "RelativeToolTip": "HotelManagerment\\Dashboard.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:49:21.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\Form1.cs",
+              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Form1.cs",
+              "RelativeToolTip": "HotelManagerment\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:54:29.062Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\All user control\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\All user control\\UC_Employee.cs [Design]",
+              "RelativeToolTip": "HotelManagerment\\All user control\\UC_Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:47:07.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\Form1.cs",
+              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Form1.cs [Design]",
+              "RelativeToolTip": "HotelManagerment\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:54:23.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Dashboard.cs [Design]",
+              "RelativeToolTip": "HotelManagerment\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:38:16.582Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
