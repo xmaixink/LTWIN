@@ -10,7 +10,7 @@ namespace HotelManagerment
         internal SqlConnection getConnection()
         {
             SqlConnection con = new SqlConnection();
-            con.ConnectionString = "data source=LAIVUNG\\SQLEXPRESS;database=myHotel;integrated security=True;TrustServerCertificate=True";
+            con.ConnectionString = "data source=XMAIXINH\\SQLEXPRESS;database=myHotel;integrated security=True;TrustServerCertificate=True";
             return con;
         }
 
@@ -46,6 +46,17 @@ namespace HotelManagerment
             {
                 con.Close();
             }
+
         }
+            public SqlDataReader getForCombo(String query)
+            {
+                SqlConnection con = getConnection();
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = con;
+                con.Open();
+                cmd = new SqlCommand(query, con);
+                SqlDataReader sdr = cmd.ExecuteReader();
+                return sdr;
+            }
     }
 }

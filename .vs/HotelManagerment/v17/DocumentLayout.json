@@ -1,26 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\junlie\\source\\repos\\hotelmanagerment\\hotelmanagerment\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\asus\\source\\repos\\btl_win\\hotelmanagerment\\all user control\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\asus\\source\\repos\\btl_win\\hotelmanagerment\\all user control\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|C:\\Users\\ASUS\\source\\repos\\BTL_Win\\hotelmanagerment\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\asus\\source\\repos\\btl_win\\hotelmanagerment\\all user control\\customerdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\customerdetail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\asus\\source\\repos\\btl_win\\hotelmanagerment\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\asus\\source\\repos\\btl_win\\hotelmanagerment\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|C:\\Users\\ASUS\\source\\repos\\BTL_Win\\hotelmanagerment\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\asus\\source\\repos\\btl_win\\hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\junlie\\source\\repos\\hotelmanagerment\\hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|C:\\Users\\ASUS\\source\\repos\\BTL_Win\\hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\hotelmanagerment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\asus\\source\\repos\\btl_win\\hotelmanagerment\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|c:\\users\\junlie\\source\\repos\\hotelmanagerment\\hotelmanagerment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|C:\\Users\\ASUS\\source\\repos\\BTL_Win\\hotelmanagerment\\db_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE029F6-7EDF-438B-A0EF-294A92ABD1D2}|HotelManagerment\\HotelManagerment.csproj|solutionrelative:hotelmanagerment\\db_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,72 +57,151 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Dashboard.cs",
-              "RelativeDocumentMoniker": "HotelManagerment\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Dashboard.cs",
-              "RelativeToolTip": "HotelManagerment\\Dashboard.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAuwDQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T17:49:21.991Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Form1.cs",
-              "RelativeDocumentMoniker": "HotelManagerment\\Form1.cs",
-              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Form1.cs",
-              "RelativeToolTip": "HotelManagerment\\Form1.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwDEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:54:29.062Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_CustomerRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\UC_CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\UC_CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\UC_CustomerRegistration.cs [Design]",
+              "RelativeToolTip": "HotelManagerment\\All user control\\UC_CustomerRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:18:04.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UC_Employee.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\All user control\\UC_Employee.cs",
-              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\UC_Employee.cs",
-              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\All user control\\UC_Employee.cs [Design]",
-              "RelativeToolTip": "HotelManagerment\\All user control\\UC_Employee.cs [Design]",
+              "Title": "CustomerDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\CustomerDetail.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\CustomerDetail.cs",
+              "RelativeToolTip": "HotelManagerment\\All user control\\CustomerDetail.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T02:47:07.119Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-10T12:32:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_CustomerRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\UC_CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\UC_CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\UC_CustomerRegistration.cs",
+              "RelativeToolTip": "HotelManagerment\\All user control\\UC_CustomerRegistration.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAApwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:32:26.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Form1.cs",
-              "RelativeDocumentMoniker": "HotelManagerment\\Form1.cs",
-              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Form1.cs [Design]",
-              "RelativeToolTip": "HotelManagerment\\Form1.cs [Design]",
+              "Title": "CustomerDetail.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\All user control\\CustomerDetail.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\CustomerDetail.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\All user control\\CustomerDetail.Designer.cs",
+              "RelativeToolTip": "HotelManagerment\\All user control\\CustomerDetail.Designer.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAD4v5oAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:54:23.41Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-10T12:19:15.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CustomerDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\CustomerDetail.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\CustomerDetail.cs [Design]",
+              "RelativeToolTip": "HotelManagerment\\All user control\\CustomerDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:15:40.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_AddRoom.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\UC_AddRoom.cs",
+              "RelativeToolTip": "HotelManagerment\\All user control\\UC_AddRoom.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:54:14.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_AddRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\All user control\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\All user control\\UC_AddRoom.cs [Design]",
+              "RelativeToolTip": "HotelManagerment\\All user control\\UC_AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:32:20.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\Dashboard.cs",
               "RelativeDocumentMoniker": "HotelManagerment\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\Dashboard.cs [Design]",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\Dashboard.cs [Design]",
               "RelativeToolTip": "HotelManagerment\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T15:38:16.582Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\Dashboard.cs",
+              "RelativeToolTip": "HotelManagerment\\Dashboard.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAArwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:30:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\Dashboard.Designer.cs",
+              "RelativeToolTip": "HotelManagerment\\Dashboard.Designer.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAEwLIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:46:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Db_connect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\Db_connect.cs",
+              "RelativeDocumentMoniker": "HotelManagerment\\Db_connect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BTL_Win\\HotelManagerment\\Db_connect.cs",
+              "RelativeToolTip": "HotelManagerment\\Db_connect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:43:08.555Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -106,10 +209,6 @@
           "DockedHeight": 200,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

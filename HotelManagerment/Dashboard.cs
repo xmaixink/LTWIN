@@ -50,8 +50,29 @@ namespace HotelManagerment
         private void Dashboard_Load_1(object sender, EventArgs e)
         {
             btnAddRoom.PerformClick();
+            uC_CustomerRegistration.Visible = false;
             uc_control.Visible = false;
 
+        }
+
+        private void uC_CustomerRegistration1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+
+
+        private void btnCustomerRegistration_Click(object sender, EventArgs e)
+        {
+
+            uC_CustomerRegistration.Visible = true;
+            uC_CustomerRegistration.BringToFront();
+        }
+
+        private void btnCustomerDetails_Click(object sender, EventArgs e)
+        {
+            customerDetail1.Visible = true;
+            customerDetail1.BringToFront();
         }
     }
 }

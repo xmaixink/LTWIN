@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\HotelManagerment.csproj": {}
+    "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\HotelManagerment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\HotelManagerment.csproj": {
+    "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\HotelManagerment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\HotelManagerment.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\HotelManagerment.csproj",
         "projectName": "HotelManagerment",
-        "projectPath": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\HotelManagerment.csproj",
-        "packagesPath": "C:\\Users\\Junlie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Junlie\\source\\repos\\HotelManagerment\\HotelManagerment\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\HotelManagerment.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\BTL_Win\\HotelManagerment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Junlie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,9 +49,13 @@
               "target": "Package",
               "version": "[2.0.4.6, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[5.2.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
@@ -74,7 +77,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
